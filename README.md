@@ -5,8 +5,13 @@ Este repositório contém um jogo de adivinhação desenvolvido em Python. O pro
 O projeto é simples, mas demonstra conceitos fundamentais de programação, sendo ideal para iniciantes que desejam praticar lógica.
 
 # Recursos e conceitos abordados
+
 Geração de números aleatórios utilizando a biblioteca random
+
 Estruturas condicionais: if, elif, else
+
 Estrutura de repetição com controle de tentativas (while)
+
 Interação com o usuário através da entrada de dados (input)
+
 Controle de fluxo básico e lógica de jogo
